@@ -136,7 +136,7 @@ public:
 void consultant::msg01(void)
 {
   std::cout << "This program calculate a pop first and remain values of long value." << std::endl;
-  std::cout << "Please enter a integer value." << std::endl;
+  std::cout << "Please enter a long value." << std::endl;
   std::cout << "value>";
 }
 void consultant::msg06(void)
